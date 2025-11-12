@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "ITZSAHIL7379",
+    "password": "hy555Ccccc@Hn324alwayslast",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "imhxr.aternos.me",
+    "port": 22161,
+    "version": "1.21.10"
   },
 
   "position": {
@@ -20,7 +20,7 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": enable,
       "password": "12345678"
     },
 
@@ -33,7 +33,7 @@
       "hit": {
         "enabled": false,
         "delay": 1000,
-        "attack-mobs": false
+        "attack-mobs": true
       },
 
       "circle-walk": {
@@ -45,13 +45,10 @@
     "chat-messages": {
       "enabled": false,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 300,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "hello discord mai ao",
       ]
     },
 
